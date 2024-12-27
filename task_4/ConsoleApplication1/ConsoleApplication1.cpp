@@ -3,7 +3,7 @@ using namespace std;
 
 int main() 
 {
-    setlocale(LC_ALL, "Russian");
+    setlocale(LC_ALL, "Russian"); // Подключаю русский язык
     int SIZE; 
 
     cout << "Введите размер массива через пробел: " << endl;
